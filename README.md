@@ -1,1 +1,1 @@
-# MC102
+# MC102 - Algorithms and Computer Programming (Python)
